@@ -266,6 +266,8 @@ $place=array();
 	            }
                
         }
+	
+	echo "<br>Zoom in on the Mumbai region to see the polygon<br>";
               echo json_encode($latitude);
               echo json_encode($longitude);
 
